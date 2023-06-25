@@ -10,3 +10,5 @@ It contains the following functions:
 
 The app is designed for iPhones(iOS) only, runs in a simulator and on a real device.
 The application is built using Xcode and does not require any other manipulations.
+
+![Preview](https://github.com/cotannngens/Notes-App/raw/main/Notes-App.png)
